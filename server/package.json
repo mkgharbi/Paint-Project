@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
+    "@angular/core": "^11.0.5",
     "@types/mongoose": "^5.5.32",
     "angularfire2": "^5.2.3",
     "body-parser": "^1.18.3",
